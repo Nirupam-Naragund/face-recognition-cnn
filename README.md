@@ -11,7 +11,7 @@ This project can:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/face-recognition-cnn.git
+git clone https://github.com/Nirupam-Naragund/face-recognition-cnn.git
 cd face-recognition-cnn
 ```
 ### 2. Create a virtual environment (Python 3.11 recommended)
@@ -52,6 +52,8 @@ python train.py
 ```bash
 python recognize.py
 ```
+
+
 
 ⚠️ Notes
 
